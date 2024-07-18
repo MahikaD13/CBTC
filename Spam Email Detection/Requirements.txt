@@ -1,1 +1,5 @@
-
+pip install nltk
+pip install wordcloud
+pip install streamlit
+pip install pickle
+pip install scikit-learn
