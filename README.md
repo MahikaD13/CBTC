@@ -1,4 +1,4 @@
-# CBTC
+# CBT-CIB
 
 # Spam Email Detection and Classification
 I have created a machine learning model that can detect spam and ham email or sms and classify them.
